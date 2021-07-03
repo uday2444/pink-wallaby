@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Conference for Creative People
+    subtitle: Define.Excel.Acelerate.
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
