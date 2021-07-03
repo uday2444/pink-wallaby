@@ -15,7 +15,7 @@ sections:
     background_image: images/hero-background.jpg
     background_image_opacity: 15
     background_image_size: cover
-    title: Trust Secure Facility Managemnt
+    title: Trust Secure Facility Management
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
