@@ -3,7 +3,12 @@ title: Home
 sections:
   - type: hero_section
     subtitle: Define.Excel.Acelerate.
-    content: '**April 14 - 16, 2021**'
+    content: |
+      Define: - State or describe exactly the nature, scope, or me aiming of
+
+      Excel: - Be exceptionally good at or proficient in an activity or subject 
+
+      Accelerate: - Begin to move more quickly 
     actions:
       - label: Get Your Ticket Today!
         url: /about
