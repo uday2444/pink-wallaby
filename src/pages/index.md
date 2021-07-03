@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: Define.Excel.Acelerate.
     subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
     actions:
